@@ -1,0 +1,8 @@
+﻿  CompClass.cpp
+D:\C++\Lab\Labba3\Labba3\CompClass.cpp(53,78): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\C++\Lab\Labba3\Labba3\CompClass.cpp(53,47): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\C++\Lab\Labba3\Labba3\CompClass.cpp(189,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\C++\Lab\Labba3\Labba3\CompClass.cpp(201,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\C++\Lab\Labba3\Labba3\CompClass.cpp(202,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\C++\Lab\Labba3\Labba3\CompClass.cpp(203,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Labba3.vcxproj -> D:\C++\Lab\Labba3\x64\Debug\Labba3.exe

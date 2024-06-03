@@ -1,0 +1,79 @@
+﻿Построение начато 04.04.2018 19:57:20.
+     1>Проект "E:\Учеба\2017-2018(3курс)\C++\2. Классы\ClassGoods\ClassGoods\ClassGoods.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\ClassGoods.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         E:\Program Files\VS10\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\ClassGoods.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ClassGoods.cpp
+         ClassGoods.cpp
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\timesclass.h(114): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\timesclass.h(122): warning C4018: >: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\timesclass.h(128): warning C4018: >: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\timesclass.h(138): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\timesclass.h(169): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\timesclass.h(418): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\timesclass.h(426): warning C4018: >: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\timesclass.h(432): warning C4018: >: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\timesclass.h(442): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\timesclass.h(503): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\timesclass.h(522): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\timesclass.h(572): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\timesclass.h(587): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\timesclass.h(608): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\functions.h(42): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 e:\program files\vs10\vc\include\stdlib.h(867): см. объявление "itoa"
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\functions.h(68): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\functions.h(136): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\functions.h(182): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\functions.h(270): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\functions.h(285): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\functions.h(290): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\functions.h(304): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\functions.h(329): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\functions.h(345): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\functions.h(540): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(66): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(71): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(77): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(89): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(148): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(148): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(170): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(170): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(196): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(196): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(263): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(263): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(288): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(288): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(567): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(581): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(783): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(843): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(874): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(899): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(920): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(953): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\classgoods.h(994): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\functions.h(119): warning C4700: использована неинициализированная локальная переменная "tmpStr_"
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classgoods\classgoods\functions.h(535): warning C4715: sysTime: значение возвращается не при всех путях выполнения
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         E:\Program Files\VS10\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Учеба\2017-2018(3курс)\C++\2. Классы\ClassGoods\Debug\ClassGoods.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ClassGoods.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Учеба\2017-2018(3курс)\C++\2. Классы\ClassGoods\Debug\ClassGoods.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Учеба\2017-2018(3курс)\C++\2. Классы\ClassGoods\Debug\ClassGoods.lib" /MACHINE:X86 Debug\ClassGoods.exe.embed.manifest.res
+         Debug\ClassGoods.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\ClassGoods.exe.embed.manifest" /manifest Debug\ClassGoods.exe.intermediate.manifest
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         ClassGoods.vcxproj -> E:\Учеба\2017-2018(3курс)\C++\2. Классы\ClassGoods\Debug\ClassGoods.exe
+       FinalizeBuildStatus:
+         Файл "Debug\ClassGoods.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\ClassGoods.lastbuildstate".
+     1>Построение проекта "E:\Учеба\2017-2018(3курс)\C++\2. Классы\ClassGoods\ClassGoods\ClassGoods.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.12

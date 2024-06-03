@@ -1,0 +1,56 @@
+﻿Построение начато 03.04.2018 20:48:05.
+     1>Проект "E:\Учеба\2017-2018(3курс)\C++\2. Классы\ClassMoney\ClassMoney\ClassMoney.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\ClassMoney.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         E:\Program Files\VS10\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\ClassMoney.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ClassMoney.cpp
+         ClassMoney.cpp
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\functions.h(42): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 e:\program files\vs10\vc\include\stdlib.h(867): см. объявление "itoa"
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\functions.h(68): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\functions.h(136): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\functions.h(182): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\functions.h(270): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\functions.h(285): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\functions.h(290): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\functions.h(304): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\functions.h(329): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\functions.h(345): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\functions.h(540): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\classmoney.h(42): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\classmoney.h(69): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\classmoney.h(69): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\classmoney.h(91): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\classmoney.h(91): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\classmoney.h(117): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\classmoney.h(117): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\classmoney.h(184): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\classmoney.h(184): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\classmoney.h(209): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\classmoney.h(209): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\classmoney.h(305): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\classmoney.h(310): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\classmoney.h(316): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\functions.h(119): warning C4700: использована неинициализированная локальная переменная "tmpStr_"
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classmoney\classmoney\functions.h(535): warning C4715: sysTime: значение возвращается не при всех путях выполнения
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         E:\Program Files\VS10\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Учеба\2017-2018(3курс)\C++\2. Классы\ClassMoney\Debug\ClassMoney.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ClassMoney.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Учеба\2017-2018(3курс)\C++\2. Классы\ClassMoney\Debug\ClassMoney.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Учеба\2017-2018(3курс)\C++\2. Классы\ClassMoney\Debug\ClassMoney.lib" /MACHINE:X86 Debug\ClassMoney.exe.embed.manifest.res
+         Debug\ClassMoney.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\ClassMoney.exe.embed.manifest" /manifest Debug\ClassMoney.exe.intermediate.manifest
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         ClassMoney.vcxproj -> E:\Учеба\2017-2018(3курс)\C++\2. Классы\ClassMoney\Debug\ClassMoney.exe
+       FinalizeBuildStatus:
+         Файл "Debug\ClassMoney.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\ClassMoney.lastbuildstate".
+     1>Построение проекта "E:\Учеба\2017-2018(3курс)\C++\2. Классы\ClassMoney\ClassMoney\ClassMoney.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.97

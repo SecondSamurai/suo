@@ -1,0 +1,90 @@
+﻿Построение начато 06.04.2018 14:59:49.
+     1>Проект "E:\Учеба\2017-2018(3курс)\C++\2. Классы\ClassPersonList\ClassPersonList\ClassPersonList.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\ClassPersonList.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         E:\Program Files\VS10\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\ClassPersonList.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ClassPersonList.cpp
+         ClassPersonList.cpp
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(70): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 e:\program files\vs10\vc\include\stdlib.h(867): см. объявление "itoa"
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(76): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(103): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(171): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(277): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(365): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(380): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(385): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(399): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(424): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(440): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(531): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(543): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(680): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(722): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(740): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(758): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(792): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(793): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(841): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(844): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(861): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(133): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(209): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(334): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\vs10\vc\include\string.h(105): см. объявление "strcpy"
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(337): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\vs10\vc\include\string.h(105): см. объявление "strcpy"
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(340): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\vs10\vc\include\string.h(105): см. объявление "strcpy"
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(343): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\vs10\vc\include\string.h(105): см. объявление "strcpy"
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(346): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\vs10\vc\include\string.h(105): см. объявление "strcpy"
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(349): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\vs10\vc\include\string.h(105): см. объявление "strcpy"
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(352): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\vs10\vc\include\string.h(105): см. объявление "strcpy"
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(355): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\vs10\vc\include\string.h(105): см. объявление "strcpy"
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(358): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\vs10\vc\include\string.h(105): см. объявление "strcpy"
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(361): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\vs10\vc\include\string.h(105): см. объявление "strcpy"
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(364): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\vs10\vc\include\string.h(105): см. объявление "strcpy"
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(367): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\vs10\vc\include\string.h(105): см. объявление "strcpy"
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(383): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(394): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(426): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(437): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(470): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(481): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(516): warning C4018: <=: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(530): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(570): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(572): warning C4244: =: преобразование "double" в "unsigned long", возможна потеря данных
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\classpersonlist.h(596): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(154): warning C4700: использована неинициализированная локальная переменная "tmpStr_"
+     1>e:\учеба\2017-2018(3курс)\c++\2. классы\classpersonlist\classpersonlist\f_helper.h(675): warning C4715: sysTime: значение возвращается не при всех путях выполнения
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         E:\Program Files\VS10\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Учеба\2017-2018(3курс)\C++\2. Классы\ClassPersonList\Debug\ClassPersonList.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ClassPersonList.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Учеба\2017-2018(3курс)\C++\2. Классы\ClassPersonList\Debug\ClassPersonList.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Учеба\2017-2018(3курс)\C++\2. Классы\ClassPersonList\Debug\ClassPersonList.lib" /MACHINE:X86 Debug\ClassPersonList.exe.embed.manifest.res
+         Debug\ClassPersonList.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\ClassPersonList.exe.embed.manifest" /manifest Debug\ClassPersonList.exe.intermediate.manifest
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         ClassPersonList.vcxproj -> E:\Учеба\2017-2018(3курс)\C++\2. Классы\ClassPersonList\Debug\ClassPersonList.exe
+       FinalizeBuildStatus:
+         Файл "Debug\ClassPersonList.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\ClassPersonList.lastbuildstate".
+     1>Построение проекта "E:\Учеба\2017-2018(3курс)\C++\2. Классы\ClassPersonList\ClassPersonList\ClassPersonList.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.15

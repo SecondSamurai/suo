@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "events_org", "events_org.csproj", "{AC8E6EE8-89DB-4AAD-AA05-877F99FA9778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC8E6EE8-89DB-4AAD-AA05-877F99FA9778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8E6EE8-89DB-4AAD-AA05-877F99FA9778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8E6EE8-89DB-4AAD-AA05-877F99FA9778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8E6EE8-89DB-4AAD-AA05-877F99FA9778}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2081E3DD-7BCA-4142-AB71-F20FCB9B5904}
+	EndGlobalSection
+EndGlobal

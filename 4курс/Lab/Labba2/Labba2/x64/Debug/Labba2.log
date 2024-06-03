@@ -1,0 +1,12 @@
+﻿  ClassLab.cpp
+D:\C++\Lab\Labba2\Labba2\ClassLab.cpp(32,41): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\C++\Lab\Labba2\Labba2\ClassLab.cpp(209,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\C++\Lab\Labba2\Labba2\ClassLab.cpp(229,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\Lab\Labba2\Labba2\ClassLab.cpp(248,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\Lab\Labba2\Labba2\ClassLab.cpp(260,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\Lab\Labba2\Labba2\ClassLab.cpp(275,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\Lab\Labba2\Labba2\ClassLab.cpp(290,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\Lab\Labba2\Labba2\ClassLab.cpp(309,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\Lab\Labba2\Labba2\ClassLab.cpp(321,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\Lab\Labba2\Labba2\ClassLab.cpp(335,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Labba2.vcxproj -> D:\C++\Lab\Labba2\x64\Debug\Labba2.exe
